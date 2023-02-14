@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Simo-Pekka</h1>
-<h3 align="center">A passionate frontend developer from Helsinki</h3>
+<h3 align="center">Information technology student from Helsinki</h3>
 
-- 🔭 I’m currently working on [fullstackopen](www.fullstackopen.com)
+- 🔭 I’m currently working on fullstackopen
 
-- 🌱 I’m currently learning **react**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
