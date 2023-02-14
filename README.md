@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Simo-Pekka</h1>
 <h3 align="center">A passionate frontend developer from Helsinki</h3>
 
