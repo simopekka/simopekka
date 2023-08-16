@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Simo-Pekka</h1>
 <h3 align="center">Information technology student from Helsinki</h3>
 
-- 🔭 I’m currently working on fullstackopen
-
 
 <p align="left">
 </p>
